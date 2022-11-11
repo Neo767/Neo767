@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neo767
+- 👋 Hi, I’m @Neo767. Find me on linkedIn https://www.linkedin.com/in/ssenaotam/
 - 👀 I’m interested in building functional offline apps with zero rated centralization to a ftp service 
 - 🌱 I’m currently learning python, Javascript, web3 and SaaS
 - 💞️ I’m looking to collaborate on meaningful projects that can help connect data to previously unreachable markets
